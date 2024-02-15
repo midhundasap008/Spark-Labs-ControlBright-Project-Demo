@@ -6,7 +6,7 @@ This  project created in reactjs using vite build tool with typescript template,
 
 ### Application Features
 
-CRUD operations to mange list of features with sorting and pagination.
+CRUD operations to manage list of features with sorting and pagination and also added MUI Skeleton..
 
 
 ### Run time
